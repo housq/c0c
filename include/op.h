@@ -1,0 +1,12 @@
+/* opxx(a,b) OP##a is the enumerate no of operator b */
+opxx(PLUS, " + " ) 
+opxx(MINUS, " - ") 
+opxx(MULT, " * ") 
+opxx(DIV, " / ") 
+opxx(ASSIGN, " = ") 
+opxx(EQL,"==")
+opxx(GRE,">")
+opxx(GREQ,">=")
+opxx(LES,"<")
+opxx(LEQ,"<=")
+opxx(NEQ,"!=")
